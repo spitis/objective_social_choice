@@ -1,0 +1,3 @@
+models/voting_rule_modelcn-0_rcp-0___0.0003-4-2-max-sum.pt
+Accuracy: 0.6235637279958265
+Loss: 0.9979876421074635
